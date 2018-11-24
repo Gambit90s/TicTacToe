@@ -6,11 +6,11 @@
 .row {
     margin: 0 auto;
     width: 302px;
+    clear: both;
 }
 
-.row  > div {
+.row > div {
     float: left;
-    clear: both;
     height: 100px;
     width: 100px;
     cursor: pointer;
